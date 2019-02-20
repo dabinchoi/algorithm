@@ -9,7 +9,7 @@ package programmers;
 
         n과 m은 각각 1000 이하인 자연수입니다.
 
-        ex 5   3
+        ex 5   3w
 
         *****
         *****
