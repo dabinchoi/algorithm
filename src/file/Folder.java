@@ -44,7 +44,7 @@ public class Folder {
     }
 
     public void deleteFolder(String folderName){
-        //folderName으로 폴더를 삭제한다.
+
     }
 
     public Iterator<Folder> foderIterator(){
